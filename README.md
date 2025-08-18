@@ -1,2 +1,5 @@
-# csd-380
-CSD 380 Assignments
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Sue Sampson
+- Student: Zachariah King
